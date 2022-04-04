@@ -16,7 +16,7 @@ if readme:
     st.write("[Dr. Yong Poh Yu](https://www.linkedin.com/in/yong-poh-yu/)")
     
 
-st.write("Please enter your mark. To stop the algorithm, enter x .\n\n"
+st.write("Please enter your mark. To stop the algorithm, enter x .\n\n")
          
 mark = st.text_input('Enter the mark here', '50')
          
